@@ -1,2 +1,2 @@
-# stbgcc-8.3
-GCC 8.3 based releases (stbgcc)
+# stbgcc-8.5 (Zappware NV Fork)
+GCC 8.5 based releases (stbgcc) (Zappware NV Fork)
