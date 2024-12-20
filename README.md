@@ -1,5 +1,5 @@
-# stbgcc-8.5 (Zappware NV Fork)
-GCC 8.5 based releases (stbgcc) (Zappware NV Fork)
+# stbgcc-8.5 (Unofficial Zappware NV Fork)
+GCC 8.5 based releases (stbgcc) (Unofficial Zappware NV Fork)
 
 This is an unofficial fork of Broadcoms' [stbgcc-8.3-2.0](https://github.com/Broadcom/stbgcc-8.3/releases/tag/stbgcc-8.3-2.0)
 
